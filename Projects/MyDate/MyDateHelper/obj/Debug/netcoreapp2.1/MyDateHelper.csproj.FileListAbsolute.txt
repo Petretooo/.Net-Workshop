@@ -1,0 +1,10 @@
+D:\Programming\C#\Projects\MyDate\MyDateHelper\bin\Debug\netcoreapp2.1\MyDateHelper.deps.json
+D:\Programming\C#\Projects\MyDate\MyDateHelper\bin\Debug\netcoreapp2.1\MyDateHelper.runtimeconfig.json
+D:\Programming\C#\Projects\MyDate\MyDateHelper\bin\Debug\netcoreapp2.1\MyDateHelper.runtimeconfig.dev.json
+D:\Programming\C#\Projects\MyDate\MyDateHelper\bin\Debug\netcoreapp2.1\MyDateHelper.dll
+D:\Programming\C#\Projects\MyDate\MyDateHelper\bin\Debug\netcoreapp2.1\MyDateHelper.pdb
+D:\Programming\C#\Projects\MyDate\MyDateHelper\obj\Debug\netcoreapp2.1\MyDateHelper.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Projects\MyDate\MyDateHelper\obj\Debug\netcoreapp2.1\MyDateHelper.AssemblyInfoInputs.cache
+D:\Programming\C#\Projects\MyDate\MyDateHelper\obj\Debug\netcoreapp2.1\MyDateHelper.AssemblyInfo.cs
+D:\Programming\C#\Projects\MyDate\MyDateHelper\obj\Debug\netcoreapp2.1\MyDateHelper.dll
+D:\Programming\C#\Projects\MyDate\MyDateHelper\obj\Debug\netcoreapp2.1\MyDateHelper.pdb

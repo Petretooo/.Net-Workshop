@@ -1,0 +1,11 @@
+D:\Programming\C#\Projects\Loan\Loan\Loan\obj\Debug\netcoreapp2.1\Loan.csprojAssemblyReference.cache
+D:\Programming\C#\Projects\Loan\Loan\Loan\obj\Debug\netcoreapp2.1\Loan.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Projects\Loan\Loan\Loan\obj\Debug\netcoreapp2.1\Loan.AssemblyInfoInputs.cache
+D:\Programming\C#\Projects\Loan\Loan\Loan\obj\Debug\netcoreapp2.1\Loan.AssemblyInfo.cs
+D:\Programming\C#\Projects\Loan\Loan\Loan\bin\Debug\netcoreapp2.1\Loan.deps.json
+D:\Programming\C#\Projects\Loan\Loan\Loan\bin\Debug\netcoreapp2.1\Loan.runtimeconfig.json
+D:\Programming\C#\Projects\Loan\Loan\Loan\bin\Debug\netcoreapp2.1\Loan.runtimeconfig.dev.json
+D:\Programming\C#\Projects\Loan\Loan\Loan\bin\Debug\netcoreapp2.1\Loan.dll
+D:\Programming\C#\Projects\Loan\Loan\Loan\bin\Debug\netcoreapp2.1\Loan.pdb
+D:\Programming\C#\Projects\Loan\Loan\Loan\obj\Debug\netcoreapp2.1\Loan.dll
+D:\Programming\C#\Projects\Loan\Loan\Loan\obj\Debug\netcoreapp2.1\Loan.pdb

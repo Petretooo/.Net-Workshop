@@ -1,0 +1,11 @@
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\bin\Debug\netcoreapp2.1\MortgageCalculatorImperative.deps.json
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\bin\Debug\netcoreapp2.1\MortgageCalculatorImperative.runtimeconfig.json
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\bin\Debug\netcoreapp2.1\MortgageCalculatorImperative.runtimeconfig.dev.json
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\bin\Debug\netcoreapp2.1\MortgageCalculatorImperative.dll
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\bin\Debug\netcoreapp2.1\MortgageCalculatorImperative.pdb
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\obj\Debug\netcoreapp2.1\MortgageCalculatorImperative.csprojAssemblyReference.cache
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\obj\Debug\netcoreapp2.1\MortgageCalculatorImperative.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\obj\Debug\netcoreapp2.1\MortgageCalculatorImperative.AssemblyInfoInputs.cache
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\obj\Debug\netcoreapp2.1\MortgageCalculatorImperative.AssemblyInfo.cs
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\obj\Debug\netcoreapp2.1\MortgageCalculatorImperative.dll
+D:\Programming\C#\Mortgage Tax Calculator\MortgageCalculatorImperative\MortgageCalculatorImperative\obj\Debug\netcoreapp2.1\MortgageCalculatorImperative.pdb

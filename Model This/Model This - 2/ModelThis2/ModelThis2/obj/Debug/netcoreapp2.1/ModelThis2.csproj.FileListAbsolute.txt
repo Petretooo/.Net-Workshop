@@ -1,0 +1,11 @@
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\obj\Debug\netcoreapp2.1\ModelThis2.csprojAssemblyReference.cache
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\obj\Debug\netcoreapp2.1\ModelThis2.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\obj\Debug\netcoreapp2.1\ModelThis2.AssemblyInfoInputs.cache
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\obj\Debug\netcoreapp2.1\ModelThis2.AssemblyInfo.cs
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\bin\Debug\netcoreapp2.1\ModelThis2.deps.json
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\bin\Debug\netcoreapp2.1\ModelThis2.runtimeconfig.json
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\bin\Debug\netcoreapp2.1\ModelThis2.runtimeconfig.dev.json
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\bin\Debug\netcoreapp2.1\ModelThis2.dll
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\bin\Debug\netcoreapp2.1\ModelThis2.pdb
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\obj\Debug\netcoreapp2.1\ModelThis2.dll
+D:\Programming\C#\Model This\Model This - 2\ModelThis2\ModelThis2\obj\Debug\netcoreapp2.1\ModelThis2.pdb

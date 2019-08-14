@@ -1,0 +1,11 @@
+D:\Programming\C#\Projects\Date\Date\Date\bin\Debug\netcoreapp2.1\Date.deps.json
+D:\Programming\C#\Projects\Date\Date\Date\bin\Debug\netcoreapp2.1\Date.runtimeconfig.json
+D:\Programming\C#\Projects\Date\Date\Date\bin\Debug\netcoreapp2.1\Date.runtimeconfig.dev.json
+D:\Programming\C#\Projects\Date\Date\Date\bin\Debug\netcoreapp2.1\Date.dll
+D:\Programming\C#\Projects\Date\Date\Date\bin\Debug\netcoreapp2.1\Date.pdb
+D:\Programming\C#\Projects\Date\Date\Date\obj\Debug\netcoreapp2.1\Date.csprojAssemblyReference.cache
+D:\Programming\C#\Projects\Date\Date\Date\obj\Debug\netcoreapp2.1\Date.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Projects\Date\Date\Date\obj\Debug\netcoreapp2.1\Date.AssemblyInfoInputs.cache
+D:\Programming\C#\Projects\Date\Date\Date\obj\Debug\netcoreapp2.1\Date.AssemblyInfo.cs
+D:\Programming\C#\Projects\Date\Date\Date\obj\Debug\netcoreapp2.1\Date.dll
+D:\Programming\C#\Projects\Date\Date\Date\obj\Debug\netcoreapp2.1\Date.pdb

@@ -1,0 +1,11 @@
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\bin\Debug\netcoreapp2.1\Ex3.deps.json
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\bin\Debug\netcoreapp2.1\Ex3.runtimeconfig.json
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\bin\Debug\netcoreapp2.1\Ex3.runtimeconfig.dev.json
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\bin\Debug\netcoreapp2.1\Ex3.dll
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\bin\Debug\netcoreapp2.1\Ex3.pdb
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\obj\Debug\netcoreapp2.1\Ex3.csprojAssemblyReference.cache
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\obj\Debug\netcoreapp2.1\Ex3.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\obj\Debug\netcoreapp2.1\Ex3.AssemblyInfoInputs.cache
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\obj\Debug\netcoreapp2.1\Ex3.AssemblyInfo.cs
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\obj\Debug\netcoreapp2.1\Ex3.dll
+D:\Programming\C#\Projects\ExerciseThree\Ex3\Ex3\obj\Debug\netcoreapp2.1\Ex3.pdb

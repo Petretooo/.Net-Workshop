@@ -1,0 +1,11 @@
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\bin\Debug\netcoreapp2.1\Mortgage Tax Calculator.deps.json
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\bin\Debug\netcoreapp2.1\Mortgage Tax Calculator.runtimeconfig.json
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\bin\Debug\netcoreapp2.1\Mortgage Tax Calculator.runtimeconfig.dev.json
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\bin\Debug\netcoreapp2.1\Mortgage Tax Calculator.dll
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\bin\Debug\netcoreapp2.1\Mortgage Tax Calculator.pdb
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\obj\Debug\netcoreapp2.1\Mortgage Tax Calculator.csprojAssemblyReference.cache
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\obj\Debug\netcoreapp2.1\Mortgage Tax Calculator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\obj\Debug\netcoreapp2.1\Mortgage Tax Calculator.AssemblyInfoInputs.cache
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\obj\Debug\netcoreapp2.1\Mortgage Tax Calculator.AssemblyInfo.cs
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\obj\Debug\netcoreapp2.1\Mortgage Tax Calculator.dll
+D:\Programming\C#\Mortgage Tax Calculator\Mortgage Tax Calculator\Mortgage Tax Calculator\obj\Debug\netcoreapp2.1\Mortgage Tax Calculator.pdb
